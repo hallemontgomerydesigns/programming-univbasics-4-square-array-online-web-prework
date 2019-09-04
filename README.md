@@ -1,4 +1,4 @@
-# Square Array
+Thank# Square Array
 
 ## Learning Goals
 
